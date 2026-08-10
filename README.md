@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0567-permutation-in-string](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
