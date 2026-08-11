@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0881-boats-to-save-people](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0881-boats-to-save-people](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Timsort
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
