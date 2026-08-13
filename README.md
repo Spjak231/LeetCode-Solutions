@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0071-simplify-path](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0567-permutation-in-string](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0739-daily-temperatures](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0901-online-stock-span) |
