@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0881-boats-to-save-people](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0071-simplify-path](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Spjak231/LeetCode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -61,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0402-remove-k-digits](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0901-online-stock-span) |
