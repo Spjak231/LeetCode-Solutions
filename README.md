@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -108,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -130,5 +134,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
