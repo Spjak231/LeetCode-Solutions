@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0136-single-number](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0739-daily-temperatures](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
