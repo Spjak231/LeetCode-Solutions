@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0836-rectangle-overlap](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Spjak231/LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Spjak231/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0231-power-of-two) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
