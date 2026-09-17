@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0853-car-fleet) |
@@ -169,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Spjak231/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
